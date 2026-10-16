@@ -1,0 +1,10 @@
+# binaries
+azzx-crypto-stream
+*.exe
+# go
+*.test
+/vendor/
+# runtime
+*.log
+*.cast
+liqstore.json
